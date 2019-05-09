@@ -1,1 +1,2 @@
-Sup
+Daniel Fruttauro
+Full Stack Developer
