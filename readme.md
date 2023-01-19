@@ -1,2 +1,2 @@
 Daniel Fruttauro
-Full Stack Developer
+Senior Software Developer
